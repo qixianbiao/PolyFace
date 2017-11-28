@@ -25,7 +25,7 @@ Will be described in upcoming document.
 
 ### Performance:
 Three training logs are provided. \
-Currently, the best performance achieved was 99.583% on LFW data set. 
+Currently, the best performance achieved was **99.583% on LFW data set**. 
 
 
 
