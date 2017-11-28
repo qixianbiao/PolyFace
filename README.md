@@ -3,7 +3,7 @@ PolyFace: Face Recogntion with Pytorch.
 
 
 ### Training Data:
-Our Model was trained on the cleaned CASIA Dataset (around 450K).
+Our Model was trained on the ***cleaned CASIA Dataset (around 450K).***
 
 
 
