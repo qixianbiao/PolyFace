@@ -46,3 +46,9 @@ https://github.com/davidsandberg/facenet
 
 SphereFace: Deep Hypersphere Embedding for Face Recognition, CVPR 2017. \
 https://github.com/wy1iu/sphereface
+
+
+
+### Contact
+
+Xianbiao Qi: qixianbiao@gmail.com
